@@ -1,14 +1,18 @@
 # Custom Form Submit
 
-## This repository contains the code for the Custom Form Submit project.
-Built with
+![Design preview for Custom Form Submit](./preview.png)
 
-## The project was built using the following technologies:
+## Introduction
 
-  = HTML5
-  = CSS
-   
+This repository contains the code for the Custom Form Submit project.
+
+### Built with
+
+The project was built using the following technologies:
+
+- HTML5
+- CSS
 
 ## Author
 
-Yoseph Berhane
+- Website: [Yoseph Berhane](https://www.yetnew.me/)
