@@ -1,0 +1,52 @@
+ body {
+   font-family: Arial, sans-serif;
+ }
+
+ .cascadia-form {
+   max-width: 600px;
+   margin: 0 auto;
+   padding: 1.5rem;
+   background-color: #f7f7f7;
+   border: 1px solid #d9d9d9;
+   border-radius: 6px;
+ }
+
+ .cascadia-form label {
+   display: block;
+   font-size: 1.1rem;
+   font-weight: bold;
+   margin-bottom: 0.3rem;
+ }
+
+ .cascadia-form input[type="text"],
+ .cascadia-form input[type="email"],
+ .cascadia-form textarea {
+   width: 100%;
+   padding: 0.7rem;
+   font-size: 1rem;
+   border: 2px solid #4d90fe;
+   border-radius: 4px;
+   box-sizing: border-box;
+   margin-bottom: 1rem;
+ }
+
+ .cascadia-form textarea {
+   resize: none;
+ }
+
+ .cascadia-form input[type="submit"] {
+   cursor: pointer;
+   width: 100%;
+   padding: 0.8rem;
+   font-size: 1.1rem;
+   font-weight: bold;
+   color: white;
+   background-color: #4d90fe;
+   border: none;
+   border-radius: 4px;
+   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+ }
+
+ .cascadia-form input[type="submit"]:hover {
+   background-color: #3a78d4;
+ }
